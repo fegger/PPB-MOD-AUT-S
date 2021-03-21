@@ -47,8 +47,6 @@ from math import log10
 from dataclasses import dataclass
 from scipy.optimize import root_scalar
 from scipy.integrate import solve_ivp
-import numpy as np
-import matplotlib.pyplot as plt
 
 @dataclass
 class parameter:
@@ -492,5 +490,3 @@ def main():
 
 if __name__ == "__main__":
     result = main()
-    plt.plot(result.t,np.transpose(result.y))
-    plt.ylim((0,400))
