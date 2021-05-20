@@ -25,7 +25,6 @@ Model contains:
         reads initial conditions and runs the DAE calculation.
 
 Requires the 'math','scipy' and 'dataclasses' libraries.
-Dependent file PAnMparamter requires the 'dataclasses' library.
 
 Copyright (C) 2021  Felix Egger
 
