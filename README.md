@@ -12,5 +12,5 @@ The continuous model is part of a publication in preparation:
 
 F. Egger, T. Hulsen, D. J. Batstone,
 Continuous H2S removal from biogas using purple phototrophic bacteria,
-in preparation to be submitted to Water Research
+in preparation to be submitted to the Chemical Engineering Journal
 
