@@ -524,7 +524,7 @@ def PAnMdynamicInput():
     pH2in = 0*np.ones(input_length)
     Fliqin = 0.02088*np.ones(input_length)
     Fgasin = 3.9*np.ones(input_length)  # average provided
-    T = 26**np.ones(input_length)  # average provided
+    T = 26*np.ones(input_length)  # average provided
     pCH4in = 69.8*np.ones(input_length)
     SCH4in = 0*np.ones(input_length)
 
