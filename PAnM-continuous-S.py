@@ -2,11 +2,13 @@
 """
 PAnM-continuous-S: Model for continuous autotrophic growth of mixed
 culture photoautotrophic and photoheterotrophic bacteria with sulfide
-as electron donor. Part of publication in preparation:
+as electron donor. Published in:
 
+
+Continuous H2S removal from biogas using purple phototrophic bacteria (2022),
 F. Egger, T. Hulsen, D. J. Batstone,
-Continuous H2S removal from biogas using purple phototrophic bacteria,
-in preparation to be submitted to Water Research.
+Chemical Engineering Journal
+<https://doi.org/10.1016/j.cej.2022.140449>
 
 Model contains:
     - class parameter:
