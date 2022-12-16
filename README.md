@@ -6,7 +6,7 @@ The batch model (PAnM-S.py) is part of the publication:
 
 F. Egger, T. Hulsen, S. Tait, D. J. Batstone,
 Autotrophic sulfide removal by mixed culture purple phototrophic bacteria,
-Water Research 182 (2020) 115896. doi:10.1016/j.watres.2020.115896.
+Water Research 182 (2020) 115896. https://doi.org/10.1016/j.watres.2020.115896.
 
 The continuous model is part of:
 
