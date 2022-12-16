@@ -8,9 +8,9 @@ F. Egger, T. Hulsen, S. Tait, D. J. Batstone,
 Autotrophic sulfide removal by mixed culture purple phototrophic bacteria,
 Water Research 182 (2020) 115896. doi:10.1016/j.watres.2020.115896.
 
-The continuous model is part of a publication in preparation:
+The continuous model is part of:
 
 F. Egger, T. Hulsen, D. J. Batstone,
 Continuous H2S removal from biogas using purple phototrophic bacteria,
-in preparation to be submitted to the Chemical Engineering Journal
+Chemical Engineering Journal 454 (2022) 140449. https://doi.org/10.1016/j.cej.2022.140449
 
